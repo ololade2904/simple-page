@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Login Page</title>
+<style>
+body {font-family: Georgia, serif; background-image: url("dot.jpg"); padding-left: 450px}
+form {border: 3px solid black; width: 300px;}
+
+input[type=text], input[type=password]
+{   width: 100%;
+    padding: 20px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid grey;
+    box-sizing: border-box; 
+}
+
+button {    background-color: lightgreen;
+            color: red;
+            font-weight: bold;
+            font size: 50px;
+            padding: 20px 20px;
+            margin: 10px 0;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+        }
+ 
+button:hover {
+                opacity: 0.5;
+}
+
+.cancelbtn {    width: auto;
+                padding: 10px 12px;
+                background-color: red;
+                color:black;
+            }
+
+.imgcontainer {
+                 text-align: center;
+                margin: 0px 0 12px 0;
+}   
+
+img.pic {
+                width: auto;
+                border-radius: 50%;
+}
+
+.container {
+             padding: 16px;
+}
+
+span.psw {
+            float: right;
+            padding-top: 16px;
+}
+
+</style>
+</head>
+<form action="action_page.php">
+  <div class="imgcontainer">
+    <img src="lighthouse.jpg" alt="lighthouse" class="lighthouse">
+  </div>
+
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <button type="submit">LOGIN</button>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
+
+  <div class="container" style="background-color:grey">
+    <button type="button" class="cancelbtn">CANCEL</button>
+    <span class="psw">Forgot <a href="#">password?</a></span>
+  </div>
+</form>
+</html>
