@@ -1,0 +1,96 @@
+
+form {padding-top: 10px; width: 300px; margin: auto;}
+
+.bform{ background-image: url('ad (3).jpg');
+    background-position: center;
+    background-size: cover;
+    padding: 100px;
+    text-decoration: none;
+    margin: auto;}
+
+input
+{   width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid grey;
+    box-sizing: border-box; 
+}
+
+button {    background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            font-weight: bold;
+            font size: 50px;
+            padding: 5px;
+            margin: auto;
+            border: none;
+            cursor: pointer;
+            margin: auto;
+        }
+ 
+button:hover {
+                opacity: 0.5;
+}
+.container{
+    border: none;
+    padding: 10px;
+    width: 700px;
+    margin: auto;
+}
+
+.conone{
+    background-image: url('ad (2).jpg');
+    background-position: center;
+    background-size: cover;
+    border: none;
+    padding: 10px;
+    width: 1000px;
+    margin: auto;
+}
+
+.contwo{
+    background-image: url('ad (3).jpg');
+    background-position: center;
+    background-size: cover;
+    padding: 20px;
+    width: 900px;
+    margin: auto;
+}
+
+.shead{
+    margin-bottom: 15px;
+    text-align: center;
+    color: white;
+}
+
+.last{
+    margin-top: 15px;
+}
+
+div h2{
+    color: blue;
+    text-align: center;
+}
+
+.signup{
+    width: 400px;
+    margin-top: 0px
+}
+
+.submit{
+    float: left;
+}
+.psw{
+    float: right;
+}
+
+.clearboth{
+    clear: both;
+}
+
+.psw{
+    text-align: left;
+}
+a{ text-decoration: none;
+   color: white;  
+}

@@ -1,0 +1,347 @@
+body {
+	margin: 0px
+}
+a{
+	text-decoration: none;
+}
+.header{
+	padding: 25px;
+	background-image: url(blue);
+	background-position: center;
+	background-size: cover;
+	color: white;
+}
+.log{
+	float: left;
+}
+
+}
+.link {
+	float: right;
+	width: 40%;
+}
+
+.link a {
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+}
+
+.link a:hover {
+	color: #CC9933;
+}
+
+.signin{
+	float: right;
+}
+
+.signin {
+	background-color: green;
+	border:none;
+	padding: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-top-left-radius: 20px;
+}
+
+.signin a{	color: white;
+			text-decoration: none;
+}
+
+.Slider {
+	background-color: #336699;
+	margin: auto;
+	color: white;
+	width: auto;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.innerone{
+	border: 0px;
+	width: 40%;
+	padding-top: 25px;
+	padding-left: 5px;
+}
+.innerone a{
+	color: white;
+	text-decoration: none;
+	margin: 2%;
+	padding: 2%;
+	font-family: calibri;
+}
+.innertwo{
+	border:0px ;
+	text-align: center;
+	text-decoration: justify;
+	width: 40%;
+	padding-top: 50px;
+	margin: auto;
+}
+.textslider{
+	font-family: calibri;
+	font-size: 32px;
+	font-stretch: expanded;
+	font-style: normal;
+	text-align: center;
+	line-height: 1px;
+}
+.textslider h4{
+	font-family: calibri;
+	font-size: 29px;
+	font-stretch: expanded;
+	text-align: center;
+	color: rgba(255,255,255,0.3);
+
+}
+
+.module{
+	background-color: red;
+	width: auto;
+	margin:auto;
+	display: inline;
+}
+
+.module h2{
+	color: grey;
+	font-family: candara;
+}
+
+.inner-one{
+	margin-left: 7%;
+	margin-top: 4%;
+	width: 37%;
+	float: left;
+}
+.inner-one p{
+	font-family: calibri;
+}
+
+.inner-two{
+	width: 50%;
+	margin: 2%;
+	float:right;
+}
+.inner-two p{
+	font-family: calibri;
+	color: grey;
+}
+
+.clearboth{
+	clear: both;
+}
+
+.bitmani26{
+	text-align: center;
+	width: auto;
+	line-height: 25px;
+	font-family: calibri;
+	font-size: 140%
+}
+.bitmani26 h3{
+	color: #006699;	
+	font-size: 195%
+}
+.bitmani26 a{
+	text-decoration: none;
+	color: grey;
+}
+.bitmani26 h4{
+	color: silver;
+}
+.bitmani26 a:hover{
+	color: lightblue;
+}
+
+.addon{
+	background-color: lightblue;
+	font-family: calibri;
+	font-size: 18px;
+	text-align: center;
+	color: navy;
+	border: 1px solid #00CCff;
+	border-radius: 4px;
+	padding:;
+	margin-left: 5%;
+	margin-right: 5%;	
+}
+
+.contain{
+	display: inline;
+	width:auto;
+}
+.clearboth{
+	clear: both;
+}
+.wordpress{
+	float: right;
+}
+.wordpress{
+	text-align: center;
+	border:1px solid grey;
+	border-radius:5px;
+	width: 17%;
+	margin: 1%;
+	padding: 2%
+}
+.wordpress h3{
+	font-family: calibri;
+	color: #006699;
+	font-size:30px;
+}
+.wordpress h4{
+	color: rgb(111,111,111);
+	font-family: calibri;
+	font-size: 14px;
+}
+.wordpress a{
+	text-decoration: none;
+	color: #6699FF;
+}
+.wordpress a:hover{
+	color: #660033;
+}
+
+.dpress{
+	float: left;
+}
+.dpress{
+	text-align: center;
+	border:1px solid grey;
+	border-radius:5px;
+	width: 17%;
+	margin: 1%;
+	padding: 2%
+
+}
+.dpress h3{
+	font-family: calibri;
+	color: #006699;
+	font-size:30px;
+}
+.dpress h4{
+	color: rgb(111,111,111);
+	font-family: calibri;
+	font-size: 14px;
+}
+.dpress a{
+	text-decoration: none;
+	color: #6699FF;
+}
+.dpress a:hover{
+	color: #660033;
+}
+.marge{
+	margin-right: 0px;
+	margin-left: 6%;
+	margin-top: 3%;
+}
+.marg{
+	margin-left: 0px;
+	margin-right:7%;
+	margin-top: 3%;	
+}
+
+.clearboth{
+	clear: both;
+}
+.deploy{
+	margin: 1%;
+	padding-top: 1%;
+}
+.deploy h2{
+	font-size: 20px;
+	color:#006699;
+	text-align: center;
+	font-size: 40px;
+	line-height: 2px;
+	width: 700px;
+	margin-left: 160px;
+}
+.deploy h3{
+ color:grey;
+ font-family: timenew roman;
+ text-align: center;
+ width: 700px;
+ margin-left:160px;
+}
+
+.footer1{
+	background-color: rgb(240,240,240);
+	width: 100%
+	padding: 3%;
+	margin:0%;
+}
+
+.patners{
+	margin-left: 70px;
+	color: grey;
+	font-size: 12px;
+	width: auto;
+}
+.amazon{
+	float: left;
+}
+.amazon{
+	background-color: white;
+	text-align: center;
+	border: 1px solid silver;
+	width: 300px;
+	padding:4%;
+	margin:1%;
+}
+
+.learnhow{
+	margin:1%;
+	padding-top: 1%;
+}
+.learnhow h5{
+	margin-left:27%;
+	margin-top: 0%;
+	font-size: 15px;
+}
+.learnhow h4{
+	margin-left: 3%;
+	font-family: calibri;
+	font-size: 22px;
+	color:#006699;
+	padding-bottom: 10%; 
+}
+.clearboth{
+	color: both;
+}
+
+
+.footer{
+	width: auto;
+	padding: 10px;
+	background-color:#000066;
+	color: white;
+}
+.bit a{
+	color: white;
+	
+}
+.bit a:hover{
+	color: silver;
+}
+
+.bit1{
+	float: left;
+}
+.bit2{
+	float: right;
+}
+.bit2{
+	margin: 1%;
+	font-size: 15px;
+	width: auto;
+	padding: 0%
+}
+.bit2 h4{
+	color: #4444FF;
+}
+
+.clearboth{
+	color: both;
+}

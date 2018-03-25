@@ -1,0 +1,108 @@
+body {
+	margin: 0px
+}
+.header{
+	padding: 30px;
+	background-color:black;
+	color: white;
+}
+.tech{
+	float: left;
+	width: 40%;
+}
+.tech{
+	color: orange;
+}
+.link {
+	float: right;
+	width: 40%;
+}
+
+.link a {
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+}
+
+.link a:hover {
+	color: #CC9933;
+}
+.Slider {
+	background-image: url(a.jpg);
+	margin: auto;
+	background-position: center;
+	background-size: cover;
+	color: white;
+	padding: 50px;
+	text-align: center;
+}
+.inner-one{
+	border: 0px;
+	text-align: center;
+	text-decoration: justify;
+	width: 40%;
+	float: left;
+	padding: 10px;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+.inner-two{
+	border:0px ;
+	text-align: center;
+	text-decoration: justify;
+	width: 40%;
+	float:right;
+	padding: 10px;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+.inner-one h1 {
+	color: orange;
+}
+.inner-two h1 {
+	color: orange;
+}
+.clearboth{
+	clear: both;
+}
+.about{
+	margin: auto;
+	text-align: center;
+	text-decoration: justify;
+}
+.about h2{
+	color: navy;
+}
+.Features{
+	margin: auto;
+	padding-top: 10px;
+	width: 100%;
+}
+
+.Features h2{
+	text-align: center;
+	color: navy;
+}
+
+hr{
+	border: 2px solid grey;
+}
+.images{
+	float: left;
+	height: 200px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.clearboth{
+	clear: both;
+}
+.resize {
+	width: 100%;
+	max-width: 200px;
+}
+.footer{
+	text-align: center;
+	padding: 20px;
+	background-color:black;
+	color: white;
+}
